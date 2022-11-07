@@ -1,8 +1,8 @@
 html,
 body {
   height: 100%;
-  background-color: #333;
-  color: #eee;
+  background-color:black;
+  color:brown;
 }
 
 .time {
@@ -14,5 +14,5 @@ footer {
 }
 footer a {
   text-decoration: none;
-  color: #c0c0c0;
+  color:lightslategray;
 }
