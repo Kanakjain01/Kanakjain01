@@ -38,7 +38,7 @@ Feel free to reach out to me via LinkedIn or email. Let's chat about potential o
 <a href="https://www.linkedin.com/in/kanak-j-9895a3200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanak-j-9895a3200/" height="30" width="40" /></a>
 <a href="https://instagram.com/developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@jainyvro7768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jainyvro7768" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/kanakjain639?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kanakjain639?hr_r=1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/kanakjain639?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kanakjain639?hr_r=1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
