@@ -3,7 +3,9 @@
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" 
 alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanakjain01&label=Profile%20views&color=0e75b6&style=flat" alt="kanakjain01" /> Hey there! 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanakjain01&label=Profile%20views&color=0e75b6&style=flat" alt="kanakjain01" /> 
+  <br>
+Hey there! 👋
 
 I'm a FRONTEND DEVELOPER with a passion for crafting engaging and user-friendly web experiences. My skill set includes Git, GitHub, Tailwind CSS, Bootstrap, React, Node.js, Express.js, MongoDB, HTML, and CSS. I recently completed my graduation in B.Tech Computer Science Engineering from FET Agra College Agra, where I honed my coding skills and developed a deep understanding of web development.
 
