@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDzU7ke3RjC9b3H8tU--91F2YyQCB4hry3JQQdxVVoOMX18AM260kQS0OVO26opN7EwQ&usqp=CAU)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOi4Mdv8-XxjKRU-MbAfMQKxonift0c4cgJYuOqjnW2bZDAc6-Wfue7rWqj2eO_zB5fSE&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Kanak Jain</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" 
