@@ -1,4 +1,4 @@
-![MasterHead](https://res.cloudinary.com/dfjzmbdxg/image/upload/v1688383960/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966_nwd0n8.gif)
+![MasterHead](https://t4.ftcdn.net/jpg/01/69/56/13/360_F_169561381_OyknorO0aROyTrFCU5LGL8lPob140o6F.jpg)
 <h1 align="center">Hi 👋, I'm Kanak Jain</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" 
