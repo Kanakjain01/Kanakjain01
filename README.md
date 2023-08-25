@@ -1,4 +1,4 @@
-![MasterHead](https://images.unsplash.com/photo-1542831371-32f555c86880?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&h=500&q=60)
+![MasterHead](https://media.licdn.com/dms/image/C4D12AQF6-4QGS0Gw2Q/article-cover_image-shrink_720_1280/0/1623147132038?e=2147483647&v=beta&t=63_JWmPGVzpGN3Fj4Y33J6aF9gjXl8GgIckyfzZ3Jow)
 <h1 align="center">Hi 👋, I'm Kanak Jain</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" 
