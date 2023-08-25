@@ -1,4 +1,4 @@
-![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/Its-Time-To-Program-Something.jpg)
+![MasterHead](https://images.unsplash.com/photo-1542831371-32f555c86880?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&h=500&q=60)
 <h1 align="center">Hi 👋, I'm Kanak Jain</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" 
