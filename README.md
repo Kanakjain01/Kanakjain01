@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D12AQF6-4QGS0Gw2Q/article-cover_image-shrink_720_1280/0/1623147132038?e=2147483647&v=beta&t=63_JWmPGVzpGN3Fj4Y33J6aF9gjXl8GgIckyfzZ3Jow)
+![MasterHead](https://camo.githubusercontent.com/77cc30f2a04e42f69f1e2dffc906fff9c3f7dd3efef03f1eff8352dc015d58fe/68747470733a2f2f7765626974657870657274732e636f6d2f696d616765732f62616e6e6572315f312e676966)
 <h1 align="center">Hi 👋, I'm Kanak Jain</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" 
