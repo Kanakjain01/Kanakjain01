@@ -1,4 +1,4 @@
-![MasterHead](https://t4.ftcdn.net/jpg/01/69/56/13/360_F_169561381_OyknorO0aROyTrFCU5LGL8lPob140o6F.jpg)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDzU7ke3RjC9b3H8tU--91F2YyQCB4hry3JQQdxVVoOMX18AM260kQS0OVO26opN7EwQ&usqp=CAU)
 <h1 align="center">Hi 👋, I'm Kanak Jain</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" 
