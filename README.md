@@ -1,4 +1,4 @@
-![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOi4Mdv8-XxjKRU-MbAfMQKxonift0c4cgJYuOqjnW2bZDAc6-Wfue7rWqj2eO_zB5fSE&usqp=CAU)
+![MasterHead](https://libg.s3.us-east-2.amazonaws.com/download/Its-Time-To-Program-Something.jpg)
 <h1 align="center">Hi 👋, I'm Kanak Jain</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" 
