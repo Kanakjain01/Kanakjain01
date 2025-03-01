@@ -29,15 +29,14 @@ Feel free to reach out to me via LinkedIn or email. Let's chat about potential o
 
 - 🌱 I’m currently learning **Redux , Wordpress**
 
-- 👨‍💻 All of my projects are available at [https://kanakportfolio.vercel.app/](https://kanakportfolio.vercel.app/)
+-
 
 - 📫 How to reach me **kanakjain639@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kanak-j-9895a3200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanak-j-9895a3200/" height="30" width="40" /></a>
-<a href="https://instagram.com/developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="developer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@jainyvro7768" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@jainyvro7768" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/kanakjain639?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kanakjain639?hr_r=1" height="30" width="40" /></a>
 </p>
 
