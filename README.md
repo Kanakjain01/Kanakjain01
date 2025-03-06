@@ -13,9 +13,6 @@ As a frontend developer, I take delight in transforming ideas into visually appe
 
 I have hands-on experience with CSS frameworks like Tailwind CSS and Bootstrap, enabling me to create stunning designs and consistent layouts. By leveraging the power of these frameworks, I streamline my development process and deliver high-quality front-end solutions.
 
-In addition to my technical skills, I'm an avid traveler who finds inspiration in exploring new places. Traveling allows me to immerse myself in different cultures, opening my mind to fresh perspectives that often influence my design choices. It also fuels my creativity and adaptability, qualities that translate into innovative and user-centric web interfaces.
-
-Programming is not just my profession; it's my lifelong passion. I'm constantly seeking opportunities to expand my knowledge and stay up-to-date with the latest trends in the industry. Whether it's diving into new frameworks, attending workshops, or exploring online resources, I thrive on learning new things and integrating them into my projects.
 
 Throughout my academic journey, I have completed various projects that showcase my technical expertise and problem-solving abilities. These projects have not only strengthened my skills but also taught me the importance of teamwork, time management, and attention to detail.
 
