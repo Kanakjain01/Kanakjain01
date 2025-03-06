@@ -1,4 +1,4 @@
-![MasterHead](https://camo.githubusercontent.com/77cc30f2a04e42f69f1e2dffc906fff9c3f7dd3efef03f1eff8352dc015d58fe/68747470733a2f2f7765626974657870657274732e636f6d2f696d616765732f62616e6e6572315f312e676966)
+(https://camo.githubusercontent.com/77cc30f2a04e42f69f1e2dffc906fff9c3f7dd3efef03f1eff8352dc015d58fe/68747470733a2f2f7765626974657870657274732e636f6d2f696d616765732f62616e6e6572315f312e676966)
 <h1 align="center">Hi 👋, I'm Kanak Jain</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 <img align="right" 
@@ -33,7 +33,6 @@ Feel free to reach out to me via LinkedIn or email. Let's chat about potential o
 <p align="left">
 <a href="https://www.linkedin.com/in/kanak-j-9895a3200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanak-j-9895a3200/" height="30" width="40" /></a>
 
-<a href="https://www.hackerrank.com/kanakjain639?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/kanakjain639?hr_r=1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
