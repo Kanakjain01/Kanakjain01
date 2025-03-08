@@ -7,18 +7,7 @@ alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots
   <br>
 Hey there! 👋
 
-I'm a FRONTEND DEVELOPER with a passion for crafting engaging and user-friendly web experiences. My skill set includes Git, GitHub, Tailwind CSS, Bootstrap, React , HTML, and CSS. I recently completed my graduation in B.Tech Computer Science Engineering from FET Agra College Agra, where I honed my coding skills and developed a deep understanding of web development.
-
-As a frontend developer, I take delight in transforming ideas into visually appealing and interactive websites. With expertise in React, I enjoy building dynamic and responsive user interfaces that captivate users and provide seamless navigation. Version control with Git and collaboration on GitHub are essential parts of my workflow, ensuring efficient teamwork and code management.
-
-I have hands-on experience with CSS frameworks like Tailwind CSS and Bootstrap, enabling me to create stunning designs and consistent layouts. By leveraging the power of these frameworks, I streamline my development process and deliver high-quality front-end solutions.
-
-
-Throughout my academic journey, I have completed various projects that showcase my technical expertise and problem-solving abilities. These projects have not only strengthened my skills but also taught me the importance of teamwork, time management, and attention to detail.
-
-I'm excited to join a team that fosters innovation and collaboration, where I can contribute my skills in frontend development, Git, GitHub, Tailwind CSS, Bootstrap, React, Node.js, Express.js, MongoDB, HTML, and CSS. If you're looking for a dedicated and versatile developer, let's connect! Together, we can create outstanding web applications that leave a lasting impact.
-
-Feel free to reach out to me via LinkedIn or email. Let's chat about potential opportunities or simply share our love for programming and exploring new horizons! </p>
+I'm a FRONTEND DEVELOPER with a passion for crafting engaging and user-friendly web experiences. My skill set includes Git, GitHub, Tailwind CSS, Bootstrap, React , HTML, and CSS. I recently completed my graduation in B.Tech Computer Science Engineering from FET Agra College Agra, where I honed my coding skills and developed a deep understanding of web development.</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanakjain01" alt="kanakjain01" /></a> </p>
 
